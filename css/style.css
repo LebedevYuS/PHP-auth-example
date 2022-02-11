@@ -1,0 +1,27 @@
+.form-inline {
+    margin: 0 0 0 auto;
+    margin-left: auto;
+}
+
+.navbar {
+    margin-right: 10px;
+    margin-left: 10px;
+}
+
+[hidden] {
+    display: none !important;
+}
+
+.input-group {
+    width: 200px !important;
+    margin-left: 475px;
+}
+
+.absolute-center {
+    width: 100%;
+    text-align: center;
+}
+
+.dropdown-item {
+    text-decoration: none !important;
+}
