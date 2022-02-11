@@ -34,7 +34,7 @@ if (isset($_POST['do_auth'])) {
 				<form action="login.php" method="post">
 					<input type="text" class="form-control input-group" name="login" id="login" placeholder="Поле ввода логина" required><br>
 					<input type="password" class="form-control input-group" name="password" id="pass" placeholder="Поле ввода пароля" required><br>
-					<button class="btn btn-primary input-group" name="do_auth" type="submit">Авторизоваться</button>
+					<button class="btn btn-primary" name="do_auth" type="submit">Авторизоваться</button>
 				</form>
 				<?php endif; ?>
 				<br>
